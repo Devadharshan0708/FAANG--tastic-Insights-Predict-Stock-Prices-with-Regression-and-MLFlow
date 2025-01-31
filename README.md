@@ -3,4 +3,3 @@ Data Cleaning and Preprocessing, Exploratory Data Analysis Machine Learning Mode
 
 
 
-![faang image](https://github.com/user-attachments/assets/f1cdef08-5e94-48b2-9307-f660dfb20802)
